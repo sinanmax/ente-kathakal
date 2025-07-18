@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ml">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🐷 Funny കഥകൾ</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #fff8e1;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #e65100;
+    }
+    .story {
+      margin: 20px 0;
+      padding: 15px;
+      background: #fff3e0;
+      border: 1px solid #ffcc80;
+      border-radius: 10px;
+    }
+    .story h2 {
+      margin: 0 0 10px;
+    }
+    .btn {
+      background: #ff9800;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>🐷 Funny കഥകൾ</h1>
+
+  <div class="story">
+    <h2>കഥ 1: ചാണ്ടിയും ചൂളനും</h2>
+    <p>ഒരു village ൽ ഉണ്ടായ ഒരു ഹാസ്യസംഭവം... (short summary)</p>
+    <a class="btn" href="katha1.pdf" download>📥 Download PDF</a>
+  </div>
+
+  <div class="story">
+    <h2>കഥ 2: കൊച്ചുവാവയുടെ കൈപ്പത്തി</h2>
+    <p>ഇത് വായിച്ചാൽ ചിരിച്ചു കഴിയില്ല... (short summary)</p>
+    <a class="btn" href="katha2.pdf" download>📥 Download PDF</a>
+  </div>
+
+</body>
+</html>
